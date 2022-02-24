@@ -65,6 +65,7 @@ button {
 
 button:hover, button:focus {
     background-color: var(--color-accent-light);
+    cursor: pointer;
 }
 
 img {
